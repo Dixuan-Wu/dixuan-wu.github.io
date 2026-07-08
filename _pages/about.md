@@ -37,7 +37,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">
-        <span class="lang-en">PRL 2026 (Under Review)</span><span class="lang-zh">PRL 2026（审稿中）</span>
+        <span class="lang-en">PRL 2026 (Accepted)</span><span class="lang-zh">PRL 2026（已接收）</span>
       </div>
       <img src='/images/Coherent_Control_of_Three-Level_System_Using_Shaped_Free_Electrons_Fig.1.png' alt="sym" width="100%">
     </div>
@@ -45,11 +45,11 @@ redirect_from:
 
   <div class='paper-box-text' markdown="1">
 
-Coherent Control of Three-Level System Using Shaped Free Electrons.
+[Coherent Control of Three-Level System Using Shaped Free Electrons.](https://doi.org/10.1103/l2y4-tpzb)
 
 <u><strong>Dixuan Wu</strong></u>$^\*$, Jing Li$^\*$, Yuhan Jiang, and Yunquan Liu.
 
-<i>Physical Review Letters</i>, <span class="lang-en">2026 (Under Review).</span><span class="lang-zh">2026（审稿中）。</span>
+<i>Physical Review Letters</i>, <span class="lang-en">2026 (Accepted).</span><span class="lang-zh">2026（已接收）。</span>
 
   </div>
 </div>
