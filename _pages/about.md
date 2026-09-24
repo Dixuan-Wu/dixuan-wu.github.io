@@ -63,25 +63,25 @@ redirect_from:
 
 # 🎖 <span class="lang-en">Honors and Awards</span><span class="lang-zh">荣誉奖励</span>
 
-- *2025–2026*<span style="margin-left: 2em;"></span><span class="lang-en">Second Prize, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University.</span><span class="lang-zh">北京大学物理学院第十一届兴诚本科生学术论坛二等奖。</span> 
+- *2026*<span style="margin-left: 2em;"></span><span class="lang-en">Second Prize, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University.</span><span class="lang-zh">北京大学物理学院第十一届兴诚本科生学术论坛二等奖。</span> 
 
-- *2024–2025*<span style="margin-left: 2em;"></span><span class="lang-en">Award for Scientific Research, Peking University.</span><span class="lang-zh">北京大学优秀科研奖。</span>
+- *2025*<span style="margin-left: 2em;"></span><span class="lang-en">Award for Scientific Research, Peking University.</span><span class="lang-zh">北京大学优秀科研奖。</span>
 
-- *2024–2025*<span style="margin-left: 2em;"></span><span class="lang-en">First Prize, 40th National College Student Physics Competition (Regional Division, Physics Category).</span><span class="lang-zh">第四十届全国部分地区大学生物理竞赛（物理类组）一等奖。</span>
+- *2024*<span style="margin-left: 2em;"></span><span class="lang-en">First Prize, 40th National College Student Physics Competition (Regional Division, Physics Category).</span><span class="lang-zh">第四十届全国部分地区大学生物理竞赛（物理类组）一等奖。</span>
 
-- *2022–2023*<span style="margin-left: 2em;"></span><span class="lang-en">First Prize (Gold Medal), Final of the 39th Chinese Physics Olympiad.</span><span class="lang-zh">第三十九届全国中学生物理竞赛决赛一等奖（金牌）。</span>
+- *2022*<span style="margin-left: 2em;"></span><span class="lang-en">First Prize (Gold Medal), Final of the 39th Chinese Physics Olympiad.</span><span class="lang-zh">第三十九届全国中学生物理竞赛决赛一等奖（金牌）。</span>
 
-- *2022–2023*<span style="margin-left: 2em;"></span><span class="lang-en">First Prize, Hubei Division, Semi-final of the 39th Chinese Physics Olympiad (Provincial Team).</span><span class="lang-zh">第三十九届全国中学生物理竞赛复赛湖北赛区一等奖（省队）。</span>
+- *2022*<span style="margin-left: 2em;"></span><span class="lang-en">First Prize, Hubei Division, Semi-final of the 39th Chinese Physics Olympiad (Provincial Team).</span><span class="lang-zh">第三十九届全国中学生物理竞赛复赛湖北赛区一等奖（省队）。</span>
 
-- *2021–2022*<span style="margin-left: 2em;"></span><span class="lang-en">First Prize, Hubei Division, Semi-final of the 38th Chinese Physics Olympiad.</span><span class="lang-zh">第三十八届全国中学生物理竞赛复赛湖北赛区一等奖。</span>
+- *2021*<span style="margin-left: 2em;"></span><span class="lang-en">First Prize, Hubei Division, Semi-final of the 38th Chinese Physics Olympiad.</span><span class="lang-zh">第三十八届全国中学生物理竞赛复赛湖北赛区一等奖。</span>
 
-- *2020–2021*<span style="margin-left: 2em;"></span><span class="lang-en">Second Prize, Hubei Division, Semi-final of the 37th Chinese Physics Olympiad.</span><span class="lang-zh">第三十七届全国中学生物理竞赛复赛湖北赛区二等奖。</span>
+- *2020*<span style="margin-left: 2em;"></span><span class="lang-en">Second Prize, Hubei Division, Semi-final of the 37th Chinese Physics Olympiad.</span><span class="lang-zh">第三十七届全国中学生物理竞赛复赛湖北赛区二等奖。</span>
 
 <span class='anchor' id='professional-activities'></span>
 
 # 💬 <span class="lang-en">Professional Activities</span><span class="lang-zh">学术活动</span>
 
-- <span class="lang-en">Poster presentation, PIERS 2026 in Suzhou (PhotonIcs and Electromagnetics Research Symposium), Suzhou, China, 2026.</span><span class="lang-zh">墙报展示，PIERS 2026 苏州光子学与电磁学研究研讨会（PhotonIcs and Electromagnetics Research Symposium），苏州，2026。</span>
+- <span class="lang-en">Poster presentation, PIERS 2026 in Suzhou (PhotonIcs and Electromagnetics Research Symposium), Suzhou, 2026.</span><span class="lang-zh">墙报展示，PIERS 2026 苏州光子学与电磁学研究研讨会（PhotonIcs and Electromagnetics Research Symposium），苏州，2026。</span>
 
 - <span class="lang-en">Oral presentation, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University, Beijing, 2026.</span><span class="lang-zh">口头报告，北京大学物理学院第十一届兴诚本科生学术论坛，北京，2026。</span>
 
