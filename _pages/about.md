@@ -56,7 +56,7 @@ redirect_from:
 
 - Dark Polariton Induced by Quantum Destructive Interference. Jing Li, Yuhan Jiang, Leshi Zhao, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <span class="lang-en"><i>Physical Review Letters</i>, 2026 (Under Review).</span><span class="lang-zh"><i>Physical Review Letters</i>，2026（审稿中）。</span>
 
-- [Tunable two-dimensional energy orbital angular momentum synthetic lattices with free electrons.](https://journals.aps.org/prresearch/accepted/10.1103/rpst-tkh7) Jing Li, Yuhan Jiang, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <span class="lang-en"><i>Physical Review Research</i>, 2026 (Accepted).</span><span class="lang-zh"><i>Physical Review Research</i>，2026（已接收）。</span>
+- [Tunable two-dimensional energy orbital angular momentum synthetic lattices with free electrons.](https://journals.aps.org/prresearch/accepted/10.1103/rpst-tkh7) Jing Li, Yuhan Jiang, Wu Wen, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <i>Physical Review Research</i>, <span class="lang-en">**8**, 033355 – **Published 23 September, 2026**.</span><span class="lang-zh">**8**, 033355 – **发表于 2026 年 9 月 23 日**。</span>
 
 - Squeezed-Vacuum Coherence in Free-Electron–Light Interaction. Yuhan Jiang$^\*$, Jing Li$^\*$, <u><strong>Dixuan Wu</strong></u>, and Yunquan Liu. <span class="lang-en"><i>Physical Review Letters</i>, 2026 (Under Review).</span><span class="lang-zh"><i>Physical Review Letters</i>，2026（审稿中）。</span>
 <span class='anchor' id='honors-and-awards'></span>
