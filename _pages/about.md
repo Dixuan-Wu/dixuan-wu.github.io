@@ -81,6 +81,8 @@ redirect_from:
 
 # 💬 <span class="lang-en">Professional Activities</span><span class="lang-zh">学术活动</span>
 
+- <span class="lang-en">Poster presentation, PIERS 2026 in Suzhou (PhotonIcs and Electromagnetics Research Symposium), Suzhou, China, 2026.</span><span class="lang-zh">墙报展示，PIERS 2026 苏州光子学与电磁学研究研讨会（PhotonIcs and Electromagnetics Research Symposium），苏州，2026。</span>
+
 - <span class="lang-en">Oral presentation, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University, Beijing, 2026.</span><span class="lang-zh">口头报告，北京大学物理学院第十一届兴诚本科生学术论坛，北京，2026。</span>
 
 - <span class="lang-en">Oral presentation, the 15th National Symposium on the Front Issues in the Optics, Harbin, 2026.</span><span class="lang-zh">口头报告，第十五届全国光学前沿问题讨论会，哈尔滨，2026。</span>
