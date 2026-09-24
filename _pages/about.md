@@ -65,7 +65,7 @@ redirect_from:
 
 - *2026*<span style="margin-left: 2em;"></span><span class="lang-en">Second Prize, the 11th Xingcheng Undergraduate Academic Forum, School of Physics, Peking University.</span><span class="lang-zh">北京大学物理学院第十一届兴诚本科生学术论坛二等奖。</span> 
 
-- *2025*<span style="margin-left: 2em;"></span><span class="lang-en">Award for Scientific Research, Peking University.</span><span class="lang-zh">北京大学优秀科研奖。</span>
+- *2025*<span style="margin-left: 2em;"></span><span class="lang-en">Award for Scientific Research, Peking University, Academic Year 2024–2025.</span><span class="lang-zh">2024-2025学年北京大学优秀科研奖。</span>
 
 - *2024*<span style="margin-left: 2em;"></span><span class="lang-en">First Prize, 40th National College Student Physics Competition (Regional Division, Physics Category).</span><span class="lang-zh">第四十届全国部分地区大学生物理竞赛（物理类组）一等奖。</span>
 
